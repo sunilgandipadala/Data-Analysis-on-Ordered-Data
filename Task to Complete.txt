@@ -1,0 +1,21 @@
+Task:
+• Find Day difference between Order and Ship Date
+• Find Average days took to deliver product by each vendor ( Table and Chart)
+• Find Total Sales & Contribution by Ship Mode, 
+• Find Sales done by Person ( Table and Chart)
+• Top 5 Subcategory by Total Sales ( Table and Chart )
+• Show Category , and segment wise sales in cross tabulated format
+• Add Slicer for Year and Month and Connect to all available pivot
+
+
+---------------------------------------------------------------
+** Apart from above you can also any additional analysis
+** Write 3 - 5 observation/inference points
+
+-------------------------------------------------
+Metion Tools and Technique used in this project
+
+
+
+
+
